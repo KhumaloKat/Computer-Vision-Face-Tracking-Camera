@@ -2,7 +2,7 @@
 
 ## FEATURES
 
--Using Face Detection and PID module the camera follows every face detected
+-Using Face Detection and PID module the camera tracks every face detected vertically and horizontally
 
 ## INSTALLATION:
 
