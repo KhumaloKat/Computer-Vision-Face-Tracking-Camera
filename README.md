@@ -14,15 +14,15 @@
 
 ***Packages installed***
 
--Mediapipe.
+- Mediapipe.
 
--cvzone library.
+- cvzone library.
 
--Opencv-python.
+- Opencv-python.
 
--PySerial
+- PySerial
 
--Pillow.
+- Pillow.
 
 ***Components***
 
