@@ -1,4 +1,4 @@
-***Computer-Vision-Lamp-Control***
+***Computer-Vision-Face-Tracking-Camera***
 
 ## FEATURES
 
